@@ -249,7 +249,7 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-
+                window.open("/config/rarity.html", "_blank");
                 }}
                 style={{
                   margin: "5px",
