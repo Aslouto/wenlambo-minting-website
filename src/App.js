@@ -257,6 +257,17 @@ function App() {
               >
                 Rarity
               </StyledButton>
+
+              <StyledButton
+                onClick={(e) => {
+                window.open("https://wenlambo-phi.vercel.app/", "_blank");
+                }}
+                style={{
+                  margin: "5px",
+                }}
+              >
+                Rarity rank
+              </StyledButton>
               <StyledButton
                 style={{
                   margin: "5px",
