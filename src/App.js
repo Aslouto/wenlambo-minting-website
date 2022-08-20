@@ -116,7 +116,7 @@ function App() {
     DISPLAY_COST: 0.01,
     GAS_LIMIT: 0,
     MARKETPLACE: "",
-    MARKETPLACE_LINK: "",
+    MARKETPLACE_LINK: "https://stake.wenlambo.cash/",
     SHOW_BACKGROUND: false,
   });
 
