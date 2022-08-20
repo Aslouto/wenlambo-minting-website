@@ -1,0 +1,38 @@
+@media screen and (min-width: 600px) {
+
+ }
+ @media screen and (min-width: 1200px) {
+    #media1{
+        width: 20%;
+    }
+    #media2{
+        width: 40%;
+    }
+    #media3{
+        width: 80%;
+    }
+    #media4{
+        width: 60%;
+    }
+    #media5{
+        width: 20%;
+    }
+}
+
+@media screen and (min-width: 1900px) {
+    #media1{
+        width: 20%;
+    }
+    #media2{
+        width: 40%;
+    }
+    #media3{
+        width: 80%;
+    }
+    #media4{
+        width: 60%;
+    }
+    #media5{
+        width: 20%;
+    }
+}
