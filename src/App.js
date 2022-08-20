@@ -273,9 +273,8 @@ function App() {
                   margin: "5px",
                 }}
                 onClick={(e) => {
-                  window.open(CONFIG.MARKETPLACE_LINK, "_blank");
+                  window.open('https://stake.wenlambo.cash/', "_blank");
                 }}
-                href='https://stake.wenlambo.cash'
               >
                 Stake
               </StyledButton>
