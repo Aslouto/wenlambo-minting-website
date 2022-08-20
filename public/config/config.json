@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb0708454feAac4435705ef9E7D63C90dEFc1924e",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x63F54fF24004ffa84403804C0C3Fa1282Bd8245D/transactions",
+  "NETWORK": {
+    "NAME": "DOGECHAIN",
+    "SYMBOL": "DOGE",
+    "ID": 2000
+  },
+  "NFT_NAME": "WenLambo Legendary NFTS",
+  "SYMBOL": "WLNFT",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 220000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
